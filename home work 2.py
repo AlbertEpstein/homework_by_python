@@ -95,4 +95,3 @@ elif lvl == 4:
         print(r'string')
     elif n == 6:
         pass
-
